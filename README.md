@@ -7,10 +7,10 @@ Additions:<br>
 </ul>
 <br>
 
-## <a href="https://liutyiartur.github.io/scratch_google_dino_rex/files/index.html" target="_blank">wizard_v2</a>
+## <a href="https://liutyiartur.github.io/scratch_google_dino_rex/files/index.html" target="_blank">google_dino_rex</a>
 
 <details>
-  <summary>wizard_v2 preview</summary><br>
+  <summary>google_dino_rex preview</summary><br>
 
   <a href="https://liutyiartur.github.io/scratch_google_dino_rex/files/index.html" target="_blank">
     <img src="https://raw.githubusercontent.com/liutyiartur/scratch_google_dino_rex/refs/heads/main/files/prev.jpg" alt="prev" style="border-radius: 16px;">  
